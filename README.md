@@ -1,0 +1,1 @@
+# Wall-message-to-all-of-your-own-terminal-for-non-root-user
